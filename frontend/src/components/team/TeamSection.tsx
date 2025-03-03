@@ -10,6 +10,14 @@ const teamMembers = [
     twitter: "https://x.com/ganesham89",
   },
   {
+    name: "Sahil Gupta",
+    role: "Software Developer",
+    image: "https://iili.io/2gKxB4V.jpg",
+    github: "https://github.com/Sahil2012",
+    linkedin: "https://www.linkedin.com/in/sahil-gupta7/",
+    twitter: "https://x.com/guptasahil7",
+  },
+  {
     name: "Hrishikesh Gaikwad",
     role: "Software Developer",
     image: "https://iili.io/2gKxn3B.jpg",
@@ -17,14 +25,7 @@ const teamMembers = [
     linkedin: "https://www.linkedin.com/in/hrishikesh-sacchidanand-gaikwad/",
     twitter: "https://x.com/ItsHrishikeshSG",
   },
-  {
-    name: "Sahil Gupta",
-    role: "Backend Developer",
-    image: "https://iili.io/2gKxB4V.jpg",
-    github: "https://github.com/Sahil2012",
-    linkedin: "https://www.linkedin.com/in/sahil-gupta7/",
-    twitter: "https://x.com/guptasahil7",
-  },
+  
 ];
 
 const TeamSection = () => {
