@@ -51,7 +51,7 @@ The system is designed with a microservices-based architecture consisting of:
 
 ### 📡 Live Application
 
-- **Production URL**: [https://super-rookie-assignment-social-ai.vercel.app](https://super-rookie-assignment-social-ai.vercel.app)
+- **Production URL**: [https://super-rookie-assignment-social-ai.vercel.app](https://social-six-lilac.vercel.app/)
 - **🎥 YouTube Video**: [https://www.youtube.com/watch?v=HvGaHkaEa80](https://www.youtube.com/watch?v=HvGaHkaEa80)
 - **Platform**: Vercel (Frontend) | Render (Backend)
 - **Status**: ✅ Active
